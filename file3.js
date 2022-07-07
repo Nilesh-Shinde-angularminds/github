@@ -22,6 +22,7 @@ for (let i = 0; i < 10; i++) {
     console.log(i);
 }
 const data = 2 + 2 + 1;
+
 var i = 5;
 console.log("hello")
 for (let i = 0; i < 10; i++) {
@@ -30,6 +31,7 @@ for (let i = 0; i < 10; i++) {
 
 }
 
+const data2 = 2 + 2 + 1;
 
 //kjlkjlkjkj
 //55555 
