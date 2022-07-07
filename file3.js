@@ -7,6 +7,11 @@ console.log("hello")
 for (let i = 0; i < 10; i++){
     console.log(i);
 }
+var i = 5;
+console.log("hello")
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+}
 //kjlkjlkjkj
 //55555 
 // hello
