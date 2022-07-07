@@ -28,6 +28,9 @@ for (let i = 0; i < 10; i++) {
     console.log(i);
 
 }
+
+const data = 2 + 2 + 1;
+
 //kjlkjlkjkj
 //55555 
 // hello
