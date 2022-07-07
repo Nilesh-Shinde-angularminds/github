@@ -11,6 +11,8 @@ var i = 5;
 console.log("hello")
 for (let i = 0; i < 10; i++) {
     console.log(i);
+    console.log(i+1);
+    
 }
 //kjlkjlkjkj
 //55555 
@@ -18,4 +20,4 @@ for (let i = 0; i < 10; i++) {
 //55555
 // Iam branch 4 made a changes
 // i
-//sdjl
+//sd
