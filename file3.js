@@ -11,6 +11,14 @@ for (let i = 0; i < 10; i++) {
     console.log(d)
     console.log(i);
 }
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+    console.log(i);
+    console.log(i);
+    console.log(i);
+    console.log(d)
+    console.log(i);
+}
 //kjlkjlkjkj
 //55555 
 // hello
