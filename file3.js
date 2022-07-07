@@ -10,6 +10,7 @@ for (let i = 0; i < 10; i++){
 var i = 5;
 console.log("hello")
 for (let i = 0; i < 10; i++) {
+    console.log(i);
     console.log(i+1);
     
 }
