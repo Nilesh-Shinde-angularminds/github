@@ -3,8 +3,11 @@
 //55555
 // hello world
 var i = 5;
-console.log("hello")
 for (let i = 0; i < 10; i++){
+    console.log(i);
+    console.log(i);
+    console.log(i);
+    console.log(i);
     console.log(i);
 }
 //kjlkjlkjkj
